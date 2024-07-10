@@ -2,7 +2,7 @@
 
 This Python code implements a classic Snake game using the turtle library.  Players control a snake that grows longer by eating food and avoid colliding with walls or its own body.  The game keeps track of the score and high score. 
 
-<img src="snake_game.png" alt="Game_Screenshot" width="400">
+<p align="center"><img src="snake_game.png" alt="Game_Screenshot" width="400"></p>
 
 ## Key Features: 
 
